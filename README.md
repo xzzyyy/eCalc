@@ -7,5 +7,4 @@ The program allows to easily grab numbers from anywhere on the screen. For examp
 
 See 'ecalc.7z' for compiled binary with all needed files.
 
-The program uses Tesseract OCR software. For the program itself I used C++ with Qt framework. The project can be opened in QtCreator.
- 
+For the program I used C++ with Qt framework. The project can be opened in QtCreator. The program uses Tesseract OCR software.
